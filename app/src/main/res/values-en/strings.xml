@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hellow World</string>
+    <string name="titulo_app">My Hellow World</string>
+    <string name="titulo_personalizado">value</string>
+    <string name="texto">The text of the application</string>
+</resources>
